@@ -40,3 +40,4 @@ _ignore
 **/threadflow.png
 **/*.tflowlog
 **/*.tmp
+node_modules/
